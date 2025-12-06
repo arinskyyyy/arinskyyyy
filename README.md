@@ -1,6 +1,7 @@
 ## Hi there 👋 Welcome!
-![river-landscape-illustration-pixel-art-style-2](https://github.com/user-attachments/assets/9398b875-f04d-4c81-a325-d66eee3366f8)
+![4025e135470ade059a7c4de3dd2a40c7](https://github.com/user-attachments/assets/87e79a41-6c7a-4f9d-8609-3c9bd5f9e66f)
 <!--
+
 **arinskyyyy/arinskyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Greetings! Skyy, Currently pursuing B.tech Computer Science Engineering with Artificial Intelligence and Machine Learning.
 Here are some ideas to get you started:
