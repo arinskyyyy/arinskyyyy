@@ -1,5 +1,6 @@
 ## Hi there 👋 Welcome!
-![4025e135470ade059a7c4de3dd2a40c7](https://github.com/user-attachments/assets/87e79a41-6c7a-4f9d-8609-3c9bd5f9e66f)
+![profileBanner_yi7njcuzxm7d1 jpeg](https://github.com/user-attachments/assets/6744d5e3-1bdd-44cd-8285-62a1c856ea01)
+
 <!--
 
 **arinskyyyy/arinskyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
