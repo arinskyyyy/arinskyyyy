@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there! 👋 I'm Arinsky
 
-<!--
-**arinskyyyy/arinskyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/arinskyyyy?label=Follow&style=social)](https://github.com/arinskyyyy)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer who loves to explore new technologies and build amazing projects. I enjoy turning ideas into reality through code.
+
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm always learning and growing as a developer
+- 💬 Feel free to reach out if you want to collaborate or just chat about tech!
+- ⚡ Fun fact: I love coding and solving problems
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arinskyyyy&show_icons=true&theme=radical)
+
+## 🤝 Let's Connect
+
+Feel free to connect with me! I'm always open to interesting conversations and collaboration opportunities.
+
+---
+
+⭐️ From [arinskyyyy](https://github.com/arinskyyyy)
