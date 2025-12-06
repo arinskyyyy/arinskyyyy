@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Arinsky 👋
 
-<!--
-**arinskyyyy/arinskyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm currently learning and growing my skills
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Feel free to ask me about anything
+- ⚡ Fun fact: I love coding and exploring new technologies
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arinskyyyy&show_icons=true&theme=default)
+
+---
+
+Thanks for visiting my profile! 😊
