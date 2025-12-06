@@ -1,8 +1,8 @@
-## Hi there 👋
-
+## Hi there 👋 Welcome!
+![river-landscape-illustration-pixel-art-style-2](https://github.com/user-attachments/assets/9398b875-f04d-4c81-a325-d66eee3366f8)
 <!--
 **arinskyyyy/arinskyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Greetings! Skyy, Currently pursuing B.tech Computer Science Engineering with Artificial Intelligence and Machine Learning.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gituhub...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: ...
 -->
+
