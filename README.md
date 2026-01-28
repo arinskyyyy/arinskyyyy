@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome!
+## Welcome!
 ![profileBanner_yi7njcuzxm7d1 jpeg](https://github.com/user-attachments/assets/6744d5e3-1bdd-44cd-8285-62a1c856ea01)
 
 <!--
@@ -7,9 +7,8 @@
 -->
 Greetings! Skyy, currently pursuing B.tech Computer Science Engineering with Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on Gituhub...
-- 🌱 I’m currently learning Java...
-- 👯 I’m looking to collaborate in an Artificial Intelligence project...
-- 🤔 I’m looking for help with nothing at the moment...
-- 💬 Ask me about my perspective...
-- 😄 Pronouns: He/Him...
+- I’m currently working on Git and Github,
+- I’m currently learning Wev Development,
+- I’m looking to collaborate in an Artificial Intelligence integrated Project.
+- Ask me about my perspective.
+- Pronouns: He/Him.
