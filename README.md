@@ -7,8 +7,8 @@
 -->
 Greetings! Skyy, currently pursuing B.tech Computer Science Engineering with Artificial Intelligence and Machine Learning.
 
-- I’m currently working on Git and Github,
+- I’m currently working on Automating Data Pipelining Script,
 - I’m currently learning Wev Development,
-- I’m looking to collaborate in an Artificial Intelligence integrated Project.
-- Ask me about my perspective.
+- I’m looking to collaborate in an Artificial Intelligence and Machine learning integrated Project.
+- Ask me about my personal experience.
 - Pronouns: He/Him.
